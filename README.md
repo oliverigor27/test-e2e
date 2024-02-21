@@ -31,10 +31,6 @@ npm test
 
 Isso iniciará a execução dos testes definidos na pasta `test/` e exibirá os resultados no console.
 
-## Contribuições
-
-Este projeto é destinado principalmente ao aprendizado pessoal. No entanto, se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar uma pull request.
-
 ## Licença
 
 Este projeto é distribuído sob a licença [MIT](LICENSE). Sinta-se à vontade para utilizar, modificar e distribuir conforme necessário para seus próprios objetivos de aprendizado.
